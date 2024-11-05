@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uzixiico.github.io/FPc/sitemap_index.txt
+Sitemap: https://uzixiico.github.io/HaW/sitemap_index.txt
+Sitemap: https://uzixiico.github.io/SQB/sitemap_index.txt
+Sitemap: https://uzixiico.github.io/kVH/sitemap_index.txt
